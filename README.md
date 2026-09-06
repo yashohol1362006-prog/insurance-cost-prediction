@@ -7,7 +7,7 @@ Machine learning project to analyze and predict medical insurance charges using 
 This project analyzes medical insurance data and builds a machine learning model to predict insurance charges based on demographic and health-related features.
 
 ## Dataset
-
+ 
 The dataset contains 1,338 records with the following features:
 
 * Age
