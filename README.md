@@ -15,7 +15,7 @@ The dataset contains 1,338 records with the following features:
 * BMI
 * Number of children 
 * Smoker status
-* Region
+* Region 
 * Insurance charges
 
 ## Project Workflow
