@@ -8,14 +8,14 @@ This project analyzes medical insurance data and builds a machine learning model
 
 ## Dataset
  
-The dataset contains 1,338 records with the following features:
+The dataset8 contains 1,338 records with the following features:
 
 * Age
 * Sex
 * BMI
 * Number of children 
 * Smoker status
-* Region 
+* Region  
 * Insurance charges
 
 ## Project Workflow
