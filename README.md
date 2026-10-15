@@ -13,7 +13,7 @@ The dataset8 contains 1,338 records with the following features:
 * Age
 * Sex
 * BMI
-* Number of children 
+* Number of children  
 * Smoker status
 * Region  
 * Insurance charges
